@@ -4,11 +4,11 @@
 
 **Aerial Dominance** is a fast-paced top-down shooter built in Unity where players pilot a fighter plane through enemy-infested skies. Set against a hand-painted island and ocean backdrop, the game challenges players to dodge incoming bullets and eliminate enemy aircraft while navigating narrow terrain.
 
-![Image Alt](https://github.com/FortuneDayZ/Aerial-Dominance/blob/main/Screenshots/3.png?raw=true)
+<img src="=(https://github.com/FortuneDayZ/Aerial-Dominance/blob/main/Screenshots/3.png?raw=true)" width="250" />
 
-![Image Alt](https://github.com/FortuneDayZ/Aerial-Dominance/blob/main/Screenshots/2.png?raw=true)
+<img src="=(https://github.com/FortuneDayZ/Aerial-Dominance/blob/main/Screenshots/2.png?raw=true)" width="250" />
 
-![Image Alt](https://github.com/FortuneDayZ/Aerial-Dominance/blob/main/Screenshots/1.png?raw=true)
+<img src="=(https://github.com/FortuneDayZ/Aerial-Dominance/blob/main/Screenshots/1.png?raw=true)" width="250" />
 
 ---
 
